@@ -2,7 +2,7 @@
 $(call inherit-product, device/hp/tenderloin/full_tenderloin.mk)
 
 # Inherit some common evervolv stuff.
-$(call inherit-product, vendor/ev/config/common_full_tablet_wifionly.mk)
+#$(call inherit-product, vendor/ev/config/common_full_tablet_wifionly.mk)
 
 #
 # Setup device specific product configuration.
